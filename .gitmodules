@@ -1,6 +1,6 @@
 [submodule "extensions/oops-plugin-framework"]
 	path = extensions/oops-plugin-framework
-	url = https://github.com/dgflash/oops-plugin-framework.git
+	url = https://github.com/dotlive/oops-plugin-framework.git
 	branch = master
 [submodule "extensions/oops-plugin-excel-to-json"]
 	path = extensions/oops-plugin-excel-to-json
