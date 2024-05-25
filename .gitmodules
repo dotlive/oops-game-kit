@@ -1,0 +1,16 @@
+[submodule "extensions/oops-plugin-framework"]
+	path = extensions/oops-plugin-framework
+	url = https://github.com/dgflash/oops-plugin-framework.git
+	branch = master
+[submodule "extensions/oops-plugin-excel-to-json"]
+	path = extensions/oops-plugin-excel-to-json
+	url = https://github.com/dgflash/oops-plugin-excel-to-json.git
+	branch = master
+[submodule "extensions/oops-plugin-hot-update"]
+	path = extensions/oops-plugin-hot-update
+	url = https://github.com/dgflash/oops-plugin-hot-update.git
+	branch = master
+[submodule "extensions/oops-plugin-framework-tools"]
+	path = extensions/oops-plugin-framework-tools
+	url = https://github.com/dgflash/oops-plugin-framework-tools.git
+	branch = master

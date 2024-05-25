@@ -1,21 +1,17 @@
 #///////////////////////////
 # Cocos Creator 3D Project
 #///////////////////////////
-oops-plugin-framework/
-oops-plugin-framework-tools/
-oops-plugin-hot-update/
-oops-plugin-excel-to-json/
-oops_framework_remote/
 library/
 temp/
 local/
 build/
 profiles/
 native
+
 #//////////////////////////
 # NPM
 #//////////////////////////
-# node_modules/
+node_modules/
 
 #//////////////////////////
 # VSCode
@@ -26,3 +22,10 @@ native
 # WebStorm
 #//////////////////////////
 .idea/
+
+#//////////////////////////
+# Custom
+#//////////////////////////
+/excel
+yarn.lock
+package-lock.json
