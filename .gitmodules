@@ -1,0 +1,3 @@
+[submodule "extensions/oops-plugin-framework"]
+	path = extensions/oops-plugin-framework
+	url = https://github.com/dotlive/oops-plugin-framework.git
