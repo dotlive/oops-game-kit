@@ -14,6 +14,7 @@
     }
   },
   "script": {
-    "preserveSymlinks": true
+    "preserveSymlinks": true,
+    "importMap": "project://import-map.json"
   }
 }

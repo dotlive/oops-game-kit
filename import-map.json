@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "oops/": "./extensions/oops-plugin-framework/assets/"
+    }
+}

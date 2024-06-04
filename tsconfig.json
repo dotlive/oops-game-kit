@@ -3,6 +3,9 @@
   "extends": "./temp/tsconfig.cocos.json",
   /* Add your custom configuration here. */
   "compilerOptions": {
-    "strict": true
+    "strict": true,
+    "paths": {
+      "oops/*": ["./extensions/oops-plugin-framework/assets/*"]
+    }
   }
 }
