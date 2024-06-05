@@ -6,9 +6,9 @@
  */
 import { _decorator, profiler } from 'cc';
 import { DEBUG } from 'cc/env';
-import { oops } from '../../extensions/oops-plugin-framework/assets/core/Oops';
-import { Root } from '../../extensions/oops-plugin-framework/assets/core/Root';
-import { ecs } from '../../extensions/oops-plugin-framework/assets/libs/ecs/ECS';
+import { oops } from 'oops/core/Oops';
+import { Root } from 'oops/core/Root';
+import { ecs } from 'oops/libs/ecs/ECS';
 import { Account } from './game/account/Account';
 import { smc } from './game/common/SingletonModuleComp';
 import { UIConfigData } from './game/common/config/GameUIConfig';

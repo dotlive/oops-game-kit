@@ -5,7 +5,7 @@
  * @LastEditTime: 2022-08-02 14:26:35
  */
 
-import { JsonUtil } from "../../../../../extensions/oops-plugin-framework/assets/core/utils/JsonUtil";
+import { JsonUtil } from "oops/core/utils/JsonUtil";
 
 /** 演示oops-plugin-excel-to-json插件生成的配置表数据结构（可删除） */
 export class TablePromptWindow {

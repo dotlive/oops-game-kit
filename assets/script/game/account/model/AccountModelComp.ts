@@ -6,10 +6,10 @@
  * @LastEditors: dgflash
  * @LastEditTime: 2022-07-25 17:03:45
  */
-import { ecs } from "../../../../../extensions/oops-plugin-framework/assets/libs/ecs/ECS";
+import { ecs } from "oops/libs/ecs/ECS";
 
-/** 
- * 游戏账号数据 
+/**
+ * 游戏账号数据
  */
 @ecs.register('AccountModel')
 export class AccountModelComp extends ecs.Comp {

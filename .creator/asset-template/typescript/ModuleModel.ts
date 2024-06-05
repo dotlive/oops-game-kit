@@ -1,5 +1,5 @@
-import { ecs } from "../../../../../extensions/oops-plugin-framework/assets/libs/ecs/ECS";
-import { VM } from "../../../../../extensions/oops-plugin-framework/assets/libs/model-view/ViewModel";
+import { ecs } from "oops/libs/ecs/ECS";
+import { VM } from "oops/libs/model-view/ViewModel";
 
 /** 数据层对象 */
 @ecs.register('<%Name%>')

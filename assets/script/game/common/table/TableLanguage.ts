@@ -1,5 +1,5 @@
 
-import { JsonUtil } from "../../../../../extensions/oops-plugin-framework/assets/core/utils/JsonUtil";
+import { JsonUtil } from "oops/core/utils/JsonUtil";
 
 export class TableLanguage {
     static TableName: string = "Language";
@@ -24,4 +24,3 @@ export class TableLanguage {
         return this.data.en;
     }
 }
-    
